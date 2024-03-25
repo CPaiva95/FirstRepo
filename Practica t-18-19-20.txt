@@ -1,0 +1,119 @@
+5 Preguntas del tema 18.
+
+1. Qué es un sistema de control de versiones (SCV)?
+
+a) Un programa para escribir código fuente.
+b) Una herramienta para compilar código fuente.
+c) Un sistema para almacenar y gestionar diferentes versiones del código fuente a lo largo del tiempo. X
+d) Un sistema para ejecutar la fuente.
+
+2. Qué de las NO.Sólo es una ventaja de utilizar un SCV?
+
+a) Controlar los cambios realizados en el código.
+b) Revertir a versiones anteriores si hay errores o problemas.
+c) Aumentar la complejidad del proceso de desarrollo. X
+d) Trabajar en equipo de forma eficiente.
+
+3. Qué es un repositorio en el contexto de un SCV?
+
+a) Un programa para editar código fuente.
+b) Un tipo de archivo de código fuente.
+c) Un lugar donde se almacenan las diferentes versiones del código fuente y los metadatos asociados. X
+d) Un comando para ejecutar la fuente.
+
+4. Qué es un comentario en el código?
+
+a) Una línea de código que una acción específica.
+b) Una variable que almacena un valor de datos.
+c) Una función que realiza una tarea específica.
+d) Una breve explicación sobre el código fuente. X
+
+5. Cuál de las siguientes NO es una herramienta de generación de documentación?
+
+a) Git X
+b) Subversión
+c) Mercurial
+d) Esfinja
+
+
+
+tema 19
+
+1. Qué tipo de repositorio se utiliza en Git?
+
+a) Centralizado
+b) Distribuido  X
+c) Híbrido
+d) Ninguno de los anteriores
+
+2. - Qué de los siguientes comandos NO se utiliza en Git?
+
+a) 
+git initb) 
+git addc) 
+git commitd) git pull  X
+
+3. Qué son las ramas en Git?
+
+a) Copias del repositorio completo en local
+b) Versiones diferentes del código dentro del mismo repositorio  X
+c) Formas de organizar los archivos del proyecto
+d) Ninguna de las anteriores
+
+
+4. Qué ventaja tiene SVN sobre Git?
+
+a) Es más fácil de usar
+b) Es más rápido
+c) Es más seguro
+d) Es más compatible con diferentes sistemas operativos X
+
+
+5. En qué situaciones sería recomendable usar SVN en lugar de Git?
+
+a) Cuando el equipo de desarrollo es pequeño
+b) Cuando el proyecto es pequeño y simple
+c) Cuando se necesita un control de alcalde sobre el código  X
+d) Cuando se necesita un alcalde seguridad
+
+tema 20
+
+1. Qué tipo de repositorio se utiliza en GitHub?
+
+a) Centralizado   X
+b) Distribuido
+c) Híbrido
+d) Ninguno de los anteriores
+
+
+2. Qué de las siguientes características NO se ofrece en GitLab?
+
+a) Seguimiento de errores
+b) Integración en continuidad
+c) Posibilidad de crear repositorios privados
+d) Permisos de acceso a nivel de archivo    X
+
+
+3. Qué diferencia hay entre GitHub y GitLab en al tamaño máximo de un repositorio?
+
+a) GitHub permite 1GB y GitLab 10GB  X
+b) GitHub permite 10GB y GitLab 1GB
+c) Ambos permiten 1GB
+d) Ambos permiten 10 GB
+
+
+4. En qué situaciones sería recomendable usar GitLab en lugar de GitHub?
+
+a) Cuando se necesita un control de alcalde sobre los permisos de acceso a código   X
+b) Cuando se necesita un alcalde espacio de almacenamiento
+c) Cuando se necesita una mejor integración con la destitución de seguimiento de errores
+d) Cuando se necesita una mejor integración con herramientas de integración continua
+
+
+5. Qué alternativa a GitHub y GitLab ofrece la posibilidad de crear repositorios de código libre de forma gratuita?
+
+a) Bitbucket
+b) SourceForge
+c) GNU Savannah   X
+d) Gitea
+
